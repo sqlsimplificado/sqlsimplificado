@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Mauro Kiyoshi! 👋
+💻 Analista e Programador | SQL | Banco de Dados
+📊 Transformando dados em insights 📈
+📍 São Paulo, Brasil
 
-<!--
-**sqlsimplificado/sqlsimplificado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias que utilizo
+- 🛢️ Banco de Dados: MySQL, SQL Server
+- 📊 Ferramentas: Excel, Power BI
+- 🔎 Consultas SQL otimizadas para análise de dados
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+📩 Email: sqlsimplificado@gmail.com.br
+🔗 [LinkedIn](https://linkedin.com/)
