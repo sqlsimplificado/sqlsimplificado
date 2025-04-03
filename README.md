@@ -1,4 +1,4 @@
-# Olá, eu sou Mauro Kiyoshi! 👋
+Olá, eu sou Mauro Kiyoshi! 👋
 💻 Analista e Programador | SQL | Banco de Dados
 📊 Transformando dados em insights 📈
 📍 São Paulo, Brasil
